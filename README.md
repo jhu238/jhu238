@@ -1,4 +1,4 @@
-### This GitHub account contains code developed by Prof.Jiamian Hu's group at UW-Madison 👏
+### This GitHub account contains code developed by [Prof. Jiamian Hu's group](https://mesomod.weebly.com/) at UW-Madison 👏
 
 #### 1. Physical modeling
 
