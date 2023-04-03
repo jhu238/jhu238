@@ -4,7 +4,7 @@
 
 | Code package | Fuctionality |
 | --------------- | --------------- |
-| [AtomMag](https://github.com/jhu238/AtomMag) | GPU-accelerated Open-source Atomistic Magnetization dynamics modeling |
+| [GO-AtomMag](https://github.com/jhu238/AtomMag) | GPU-accelerated Open-source Atomistic Magnetization dynamics modeling |
 | [GO-Ferro](https://github.com/jhu238/GO-Ferro)| GPU-accelerated Open-source Ferroics dynamic modeling|
 | [GO-EMS](https://github.com/jhu238/GO-EMS)|GPU-accelerated Open-source ElectroMagnetic Solver |
 
